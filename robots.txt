@@ -1,0 +1,13 @@
+# Wedding Planner Pro - robots.txt
+# https://shahriarspace.github.io/wedding-planner-live/
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /sw.js
+
+# Sitemap
+Sitemap: https://shahriarspace.github.io/wedding-planner-live/sitemap.xml
+
+# Crawl-delay (optional, be polite to crawlers)
+Crawl-delay: 1
