@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#6B8F5E"/>
+  <g transform="translate(256,240)">
+    <!-- Heart shape -->
+    <path d="M0,40 C0,40 -100,-60 -100,-110 C-100,-155 -55,-180 0,-130 C55,-180 100,-155 100,-110 C100,-60 0,40 0,40Z"
+          fill="#C06B4E" stroke="#FEFDFB" stroke-width="8"/>
+    <!-- Rings -->
+    <circle cx="-30" cy="80" r="35" fill="none" stroke="#D4A853" stroke-width="8"/>
+    <circle cx="30" cy="80" r="35" fill="none" stroke="#D4A853" stroke-width="8"/>
+  </g>
+  <!-- Text -->
+  <text x="256" y="430" text-anchor="middle" font-family="serif" font-size="72" font-weight="700" fill="#FEFDFB">WP</text>
+</svg>

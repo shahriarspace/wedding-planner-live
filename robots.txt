@@ -1,0 +1,13 @@
+# Merrily Plan - robots.txt
+# https://app.merrilyplan.com/
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /sw.js
+
+# Sitemap
+Sitemap: https://app.merrilyplan.com/sitemap.xml
+
+# Crawl-delay (optional, be polite to crawlers)
+Crawl-delay: 1
